@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/yebM9seP)
 # Assignments Week 1
 # Introduction
 This assignment aims to get you started in coding with Python, but you can also use any other programming language you prefer. Specifically, you will calculate protein properties for all proteins in the theoretical proteome of an organism of your choice. The goal is to get an overview of how certain protein properties are distributed across a proteome.  
